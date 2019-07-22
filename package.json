@@ -4,8 +4,9 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "webpack-cli": "^3.3.6",
-    "webpack": "^4.36.1"
+    "@webpack-cli/init": "^0.2.2",
+    "webpack": "^4.36.1",
+    "webpack-cli": "^3.3.6"
   },
   "devDependencies": {},
   "scripts": {
